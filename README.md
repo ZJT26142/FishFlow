@@ -1,5 +1,11 @@
 # FishFlow 🐟💨
 
+**Slogan**: "Where your eyes flow effortlessly, like a fish in the sea."
+
+**Logo**: A minimalistic fish swimming in a stream, representing focus and flow.
+
+<img title="" src="concepts/logo_2.jpg" alt="FishFlow Logo" width="288"><img title="" src="./concepts/logo_1.jpg" alt="FishFlow Logo" width="288">
+
 ## Project Overview
 
 This project is a Swift-based application designed to read texts displayed on Apple devices using OpenAI's Text-to-Speech (TTS) API. The app focuses on providing a minimalist yet powerful solution, seamlessly integrated across the Apple ecosystem.
@@ -105,3 +111,5 @@ Inspired by the functionality of the Speechify Chrome extension, this project ai
 ## Developer's Note
 
 I am an intermediate programmer transitioning from Python to Swift for this project. I aim to create a solution that is elegant, intuitive, and deeply integrated with Apple's ecosystem. Suggestions and contributions are welcome!
+
+![FishFlow Logo](./concepts/star_latte_2.jpg)
